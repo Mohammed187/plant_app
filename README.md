@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+# Main Screen
+
+![Main Screen](https://github.com/Mohammed187/plant_app/blob/Mohammed187-screens/home_screen.png) \n
+![Main Screen](https://github.com/Mohammed187/plant_app/blob/Mohammed187-screens/home_screen_2.png)
+
+# Details Screen
+
+![Details Screen](https://github.com/Mohammed187/plant_app/blob/Mohammed187-screens/details_screen.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
